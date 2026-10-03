@@ -1,0 +1,5 @@
+# Copy to android/key.properties and replace the values with local credentials.
+storePassword=REPLACE_WITH_STORE_PASSWORD
+keyPassword=REPLACE_WITH_KEY_PASSWORD
+keyAlias=fitflow-upload
+storeFile=../keystores/fitflow-upload.jks
